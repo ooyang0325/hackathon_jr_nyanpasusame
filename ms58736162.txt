@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 網域擁有權的驗證檔案放置於網站根目錄",
+  "Domain": "ooyang.gq",
+  "Id": "7ff31c84-1d42-4825-96f6-543a8b1f47f0"
+}
